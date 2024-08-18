@@ -10,8 +10,9 @@ This repository contains the information and insights derived from the analysis 
 The goal of this project was to analyze Shield Insurance's operational data and provide insights to facilitate data-driven decisions. The project involved creating an interactive dashboard using Microsoft Power BI based on the provided dataset.
 
 ## Project Structure
-ppt of project: Contains the final Power BI dashboard and presentation files.
-README.md: Provides project documentation, including an overview, key insights, and recommendations.
+`Shield Insurance presentation/`: Contains the final Power BI dashboard and presentation files.
+
+`README.md/`: Provides project documentation, including an overview, key insights, and recommendations.
 
 ## Key Insights Uncovered:
 
