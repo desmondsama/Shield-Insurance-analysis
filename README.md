@@ -31,8 +31,21 @@ High-Value Policy: POL2005HEL:
 ## Recommendations:
 
 - **Targeted Marketing & Product Development**: Enhance strategies and offerings tailored to specific age groups, particularly in cities like Delhi NCR, where their demographic significantly contributes to revenue.
+- 
 **Optimizing Sales Modes**: Continue leveraging the success of the Offline-Agent mode through enhanced training, incentives, and support. Simultaneously, refine other sales modes to uncover new growth opportunities.
+  
 **Premium Policy Promotion**: Focus on promoting high-value policies like POL2005HEL and consider developing similar products for specific age groups willing to invest in comprehensive coverage.
-💻 Tools Used: Microsoft Power BI
+
+##Tools Used: 
+- Microsoft Power BI
+- Canva
 ## Dashboard Access
 Access the live Power BI dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTQ1ZTc5NmItZTc1Zi00MzUyLTk0M2MtMjRlN2E2ZWZjNjFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+## Acknowledgments
+
+I extend my gratitude to Dhaval Patel, Hemanand Vadivel, and the Codebasics team for their guidance and support throughout this internship.
+
+Your feedback is highly appreciated!
+
+Thank you for visiting this repository!
