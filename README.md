@@ -31,10 +31,10 @@ High-Value Policy: POL2005HEL:
 ## Recommendations:
 
 - **Targeted Marketing & Product Development**: Enhance strategies and offerings tailored to specific age groups, particularly in cities like Delhi NCR, where their demographic significantly contributes to revenue.
-- 
-**Optimizing Sales Modes**: Continue leveraging the success of the Offline-Agent mode through enhanced training, incentives, and support. Simultaneously, refine other sales modes to uncover new growth opportunities.
+ 
+- **Optimizing Sales Modes**: Continue leveraging the success of the Offline-Agent mode through enhanced training, incentives, and support. Simultaneously, refine other sales modes to uncover new growth opportunities.
   
-**Premium Policy Promotion**: Focus on promoting high-value policies like POL2005HEL and consider developing similar products for specific age groups willing to invest in comprehensive coverage.
+- **Premium Policy Promotion**: Focus on promoting high-value policies like POL2005HEL and consider developing similar products for specific age groups willing to invest in comprehensive coverage.
 
 ##Tools Used: 
 - Microsoft Power BI
